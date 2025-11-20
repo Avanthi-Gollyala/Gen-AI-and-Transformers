@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "weather": {
+            "command": "python",
+            "args": [
+                "C:\\Users\\avigo\\GEN AI\\MCP\\Weather_MCP_Server\\weather_server.py",
+                "weather.py"
+            ]
+        }
+    }
+}
